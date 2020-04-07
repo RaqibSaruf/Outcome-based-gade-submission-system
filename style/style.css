@@ -1,0 +1,41 @@
+	.td_class1{
+		border: solid 1px #000000;
+		padding: 8px;
+		background-color: #d9d9d9;
+		text-align: center;
+	}
+	.td_class2{
+		border: solid 1px #000000;
+		background-color: #ffffff;
+	}
+	.input_class,.input_calss1,.input_calss2{
+		padding: 5px;
+		width: 100%;
+		border-width: 0px;
+		text-align: center;
+	}
+	.input_calss1{
+		background-color: #92d050;
+	}
+	.input_class2{
+		background-color: #efefef;
+		
+	}
+	.input_class3{
+		background-color: #f2dcdb;
+		padding: 5px;
+		width: 100%;
+		border-width: 0px;
+		text-align: center;
+	}
+	.btn_class{
+		padding: 5px;
+	}
+
+	.td_class3{
+		background-color: #f2dcdb;
+		border: solid 1px #000000;
+		text-align: center;
+	}
+
+	
